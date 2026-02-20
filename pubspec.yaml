@@ -1,0 +1,12 @@
+name: minimal_snackbar
+description: A beautiful minimal top snackbar for Flutter with success, failure, and info states.
+version: 0.0.1
+homepage: https://github.com/yourusername/minimal_snackbar
+repository: https://github.com/yourusername/minimal_snackbar
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
