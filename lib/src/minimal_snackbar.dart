@@ -145,7 +145,7 @@ class _TopSnackbar extends StatelessWidget {
               Expanded(
                 child: Text(
                   message,
-                  style: TextStyle(
+                  style: const TextStyle(
                     color: MinimalSnackbar._textColor,
                     fontSize: 14,
                     fontWeight: FontWeight.w500,
